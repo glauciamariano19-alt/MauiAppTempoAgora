@@ -27,7 +27,7 @@ namespace MauiAppTempoAgora
                                                 $"Nascer do sol= {t.sunrise}\n" +
                                                 $"Por do sol= {t.sunset}\n" +
                                                 $"Tempo Mínimo= {t.temp_min}ºC\n" +
-                                                $"Tempo Máximo= {t.temp_max}ºC" +
+                                                $"Tempo Máximo= {t.temp_max}ºC\n" +
                                                 $"Descrição= {t.description}\n" +
                                                 $"Velocidade do vento= {t.speed} m/s\n" +
                                                 $"Visibilidade= {t.visibility} m";
